@@ -1,0 +1,99 @@
+.best-title h1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    color:#29cece;
+}
+
+.orange{
+    color: orange;
+}
+
+.menu{
+    margin: 0 30%;
+}
+
+.MT-10{
+    margin-top: 100px;
+}
+
+.thinkdiff{
+    font-size: 20px;
+}
+
+.footer{
+    background-color:rgb(16, 155, 155);
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.content-header-div1{
+    margin-top:80px;
+    font-size: large;
+    /* padding-left: 200px; */
+    font-size: 20px;
+    color:orange;
+    font-style: italic;
+    text-align: center;
+}
+
+.applelogo{
+
+}
+
+.text18{
+    font-size: 18px;
+}
+
+.airpodPrice{
+    padding-left: 0px;
+}
+
+.airpodPrice h3{
+    padding-left: 10px;
+    color: red;
+}
+
+.feature li{
+    color: #18d5fb;
+}
+
+.glass-intro p{
+    margin-top: 10px;
+}
+
+.ip15img{
+    margin-left: 100px;
+}
+
+.shadow{
+    -webkit-box-shadow: 3px 2px 6px 1px #777;
+}
+
+.PricePadding{
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
+.WatchPricePadding h3{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.appleWatch img{
+    height: 300px;
+    padding-top: 30px;
+}
+
+.BestSeller{
+    margin-bottom: 1000px;
+}
+
+.menuin li{
+
+}
+
+.glassimgfixing{
+    width: 100%;
+}
